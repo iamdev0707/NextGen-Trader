@@ -1,0 +1,52 @@
+[
+  {
+    "display_name": "[Anthropic] claude 3.5 haiku",
+    "model_name": "claude-3-5-haiku-latest",
+    "provider": "Anthropic"
+  },
+  {
+    "display_name": "[Anthropic] claude 4 opus",
+    "model_name": "claude-opus-4-20250514",
+    "provider": "Anthropic"
+  },
+  {
+    "display_name": "[DeepSeek] deepseek chat",
+    "model_name": "deepseek-chat",
+    "provider": "DeepSeek"
+  },
+  {
+    "display_name": "[DeepSeek] deepseek reasoner",
+    "model_name": "deepseek-reasoner",
+    "provider": "DeepSeek"
+  },
+  {
+    "display_name": "[Gemini] gemini 2.5 flash",
+    "model_name": "gemini-2.5-flash-preview-05-20",
+    "provider": "Gemini"
+  },
+  {
+    "display_name": "[Gemini] gemini 2.5 pro",
+    "model_name": "gemini-2.5-pro-preview-06-05",
+    "provider": "Gemini"
+  },
+  {
+    "display_name": "[Groq] llama 3.1 8b",
+    "model_name": "llama-3.1-8b-instant",
+    "provider": "Groq"
+  },
+  {
+    "display_name": "[Groq] llama 3.3 70b",
+    "model_name": "llama-3.3-70b-versatile",
+    "provider": "Groq"
+  },
+  {
+    "display_name": "[OpenAI] gpt-4o mini",
+    "model_name": "o4-mini",
+    "provider": "OpenAI"
+  },
+  {
+    "display_name": "[OpenAI] gpt-4o",
+    "model_name": "gpt-4o",
+    "provider": "OpenAI"
+  }
+]
